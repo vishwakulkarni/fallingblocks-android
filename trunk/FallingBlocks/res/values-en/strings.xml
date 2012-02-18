@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="punkte">Score</string>
+    <string name="reihen">Lines</string>
+</resources>
